@@ -20,3 +20,7 @@ MSSV: 16021260.
 - Người chấm: Lê Lương Tuấn Anh
 - Điểm: 9
 - Nhận xét: Hoàn thành bài tập cá nhân đầy đủ, có tham gia làm bài tập nhóm(nhưng chưa có link các commit xây dựng dự án), hoàn thành tốt các khóa học(nhưng còn chưa có link dẫn đến các hình ảnh minh chứng).
+
+- Người chấm: Phùng Đình Xuân
+- Điểm: 9.5
+- Nhận xét: Bài tập cá nhân hoàn thành đủ yêu cầu . Bài tập nhóm tích cực tham gia hoạt động nhóm và viết báo cáo ,SEMAT, tóm tắt môn học.
